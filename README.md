@@ -15,6 +15,7 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 2.Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi, klik Next dan Finish hingga semua proses instalasi selesai.
 
 PERINTAH DASAR GIT
+
 1.git init, perintah untuk membuat repository local
 
 2.git add, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
